@@ -181,3 +181,33 @@ a {
     justify-content: center;
 }
 /* end deals  section*/
+
+/* footer start */
+footer{
+    text-align: center;
+    margin-top: 150px;
+    height: 449px;
+    background-color: black;
+}
+.footer-title{
+    padding-top: 60px;
+    font-size: 48px;
+    font-weight: 800;
+
+}
+.w-color{
+    color: white;
+}
+.footer-prg{
+    margin-top: 24px;
+    text-align: center;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.90);
+
+}
+.footer-last{
+    margin-top: 32px;
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+
+}
