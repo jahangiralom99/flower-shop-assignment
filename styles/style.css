@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+/* start header */
+.header-container {
+  height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px 200px;
+  background-color: rgba(229, 84, 115, 0.1);
+}
+.banner-img {
+  width: 635px;
+  height: 600px;
+}
+.banner-title {
+  color: #272727;
+  font-size: 80px;
+}
+.banner-paragraph {
+  margin-top: 32px;
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.btn-primary {
+  padding: 20px 43px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  color: white;
+  font-weight: 700;
+  background-color: #e55473;
+}
+
+/* start flower-container */
+
+.flower-container {
+  margin-top: 150px;
+  text-align: center;
+}
+.flower-title {
+  font-size: 40px;
+  font-weight: 800;
+  color: #272727;
+  margin-top: 10px;
+}
+.flower-pragraph {
+  font-size: 18px;
+  color: rgba(39, 39, 39, 0.6);
+}
+.flower-img-container {
+  margin-top: 50px;
+  display: flex;
+  gap: 20px;
+  padding: 20px 200px;
+}
+.flower-box-1 {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+}
+.flower-img{
+    padding: 10px;
+    width: 350px;
+    height: 528px;
+}
+.flower-img, a{
+    font-size: 24px;
+    font-weight: 700;
+    color: #272727;
+
+}
