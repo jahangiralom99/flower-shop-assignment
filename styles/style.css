@@ -65,13 +65,13 @@
   border-radius: 300px 300px 0px 0px;
   background: rgba(167, 33, 98, 0.15);
 }
-.flower-box-2{
+.flower-box-2 {
   width: 464px;
   height: 538px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(5, 151, 160, 0.15);
 }
-.flower-box-3{
+.flower-box-3 {
   width: 464px;
   height: 538px;
   border-radius: 300px 300px 0px 0px;
@@ -131,26 +131,26 @@ a {
 /* end hot deal section */
 
 /* start product section */
-.product-container{
+.product-container {
   margin-top: 50px;
-    text-align: center;
-    padding: 40px 200px;
+  text-align: center;
+  padding: 40px 200px;
 }
-.cart-container{
+.cart-container {
   display: flex;
   gap: 20px;
 }
-.product-title{
+.product-title {
   color: #272727;
   font-size: 40px;
   font-weight: 800;
 }
-.product-paragraph{
+.product-paragraph {
   margin-top: 10px;
   color: rgba(39, 39, 39, 0.6);
   font-size: 18px;
 }
-.cart{
+.cart {
   margin-top: 30px;
   width: 300px;
   padding: 30px;
@@ -158,25 +158,25 @@ a {
   box-shadow: 10px 10px 10px rgb(233, 213, 213);
   border-radius: 20px;
 }
-.cart-img{
+.cart-img {
   width: 300px;
   height: 300px;
 }
-.cart-title{
+.cart-title {
   font-size: 18px;
   font-weight: 800;
 }
-.star-icone{
+.star-icone {
   margin-top: 10px;
   color: gold;
   margin-bottom: 10px;
 }
-.price{
+.price {
   margin-bottom: 20px;
-    color: #e55473;
-    font-weight: 900;
+  color: #e55473;
+  font-weight: 900;
 }
-.cart-btn{
+.cart-btn {
   padding: 10px 10px;
   border: none;
   border-radius: 40px;
@@ -185,10 +185,9 @@ a {
   font-weight: 700;
   background-color: #e55473;
 }
-.cart-pargraph{
+.cart-pargraph {
   margin-top: 10px;
   color: rgba(39, 39, 39, 0.6);
-
 }
 /*start instagram-container */
 .instagram-container {
@@ -261,7 +260,7 @@ footer {
   background-color: black;
 }
 .footer-title {
-  padding-top: 60px;
+  padding-top: 200px;
   font-size: 48px;
   font-weight: 800;
 }
@@ -278,4 +277,11 @@ footer {
   margin-top: 32px;
   color: rgba(255, 255, 255, 0.4);
   font-size: 16px;
+}
+.social-icone {
+  margin-top: 10px;
+  color: rgb(42, 222, 222);
+  display: flex;
+  justify-content: center;
+  gap: 30px;
 }
