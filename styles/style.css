@@ -146,9 +146,9 @@ a {
 /*  */
 /* start deals section */
 .deals-container {
+  background-image: url("../Flower-Asset/Rectangle9.png");
   margin-top: 150px;
   height: 449px;
-  background-image: url("/Flower-Asset/Rectangle9.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
