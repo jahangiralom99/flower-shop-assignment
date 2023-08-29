@@ -5,7 +5,7 @@
 
 /* start header */
 .header-container {
-  height: 700px;
+  height: 520px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -148,7 +148,7 @@ a {
 .deals-container {
   margin-top: 150px;
   height: 449px;
-  background-image: url("/Flower-Asset/Rectangle\ 9.png");
+  background-image: url("/Flower-Asset/Rectangle9.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -175,39 +175,36 @@ a {
   border-radius: 8px;
   background: #fff;
 }
-.input-deals{
-    display: flex;
-    gap: 30px;
-    justify-content: center;
+.input-deals {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
 }
 /* end deals  section*/
 
 /* footer start */
-footer{
-    text-align: center;
-    margin-top: 150px;
-    height: 449px;
-    background-color: black;
+footer {
+  text-align: center;
+  margin-top: 150px;
+  height: 449px;
+  background-color: black;
 }
-.footer-title{
-    padding-top: 60px;
-    font-size: 48px;
-    font-weight: 800;
-
+.footer-title {
+  padding-top: 60px;
+  font-size: 48px;
+  font-weight: 800;
 }
-.w-color{
-    color: white;
+.w-color {
+  color: white;
 }
-.footer-prg{
-    margin-top: 24px;
-    text-align: center;
-    font-size: 18px;
-    color: rgba(255, 255, 255, 0.90);
-
+.footer-prg {
+  margin-top: 24px;
+  text-align: center;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.9);
 }
-.footer-last{
-    margin-top: 32px;
-    color: rgba(255, 255, 255, 0.40);
-    font-size: 16px;
-
+.footer-last {
+  margin-top: 32px;
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 16px;
 }
